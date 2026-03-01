@@ -1,7 +1,23 @@
 # Eth-DSA
-## C++ Data Structures and Algorithms Library
-#### Ethan T Miller
-#### 2026-03-01
+## Data Structures and Algorithms Library
+### Author: Ethan T Miller (EthBeats)
+
+A modern, educational but optimized **Data Structures & Algorithms** library fully written in C++.
+
+Designed to be *well-documented* and *implementation-focused* to help students understand how core data structures and algorithms work under the hood.
+### Goals
+- Provide clean C++ implementations of classic data structures and algorithms
+- Focus on clarity and correctness over micro-optimization
+- Include documentation and complexity analysis
+- Serve as a learning resource! *not a STL replacement*
+
+#### A Note From the Author
+2026-03-01
+
+To my fellow Computer Science students:
+> **Eth-DSA** is a personal project that I want to complete from scratch as a product of everything I have learned and enjoyed in Computer Science at the *University of Tennessee*. My motivation for this project comes from wanting to help future students understand how core data structures and algorithms work under the hood so that no matter where programming ends up in the future, students know what is going on behinds the scenes. I know that Claude Code can write all of the code in this repository effortlessly, but my goal is to provide a free resource for those who want to learn from a fully crafted course with clean documentation (*potentially videos too*) going through the material from start to finish. If this library ends up being useless, at least I will have hopefully impacted someone's education and at least gotten something out of my degree! As I transition into graduate school and into a career in audio programming (*hopefully*), I hope I can contribute to this repository when I can and start to use it in my own C++ audio workflow.
+
+Ethan T Miller
 
 ### Repo Structure
 ```
