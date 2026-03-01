@@ -2,6 +2,8 @@
 
 ## Data Structures and Algorithms Library
 
+[![CI](https://github.com/EthBeats/eth-dsa/actions/workflows/ci.yml/badge.svg)](https://github.com/EthBeats/eth-dsa/actions)
+
 > An educational and optimized **Data Structures & Algorithms** library written fully in modern C++ – designed to be *well-documented* and *implementation-focused* to help students understand how core data structures and algorithms work under the hood.
 
 ### 🧑🏻‍💻 Goals
