@@ -1,25 +1,31 @@
 # Eth-DSA
+
 ## Data Structures and Algorithms Library
-### Author: Ethan T Miller (EthBeats)
 
-A modern, educational but optimized **Data Structures & Algorithms** library fully written in C++.
+> An educational and optimized **Data Structures & Algorithms** library written fully in modern C++ – designed to be *well-documented* and *implementation-focused* to help students understand how core data structures and algorithms work under the hood.
 
-Designed to be *well-documented* and *implementation-focused* to help students understand how core data structures and algorithms work under the hood.
-### Goals
+### 🧑🏻‍💻 Goals
 - Provide clean C++ implementations of classic data structures and algorithms
 - Focus on clarity and correctness over micro-optimization
-- Include documentation and complexity analysis
+- Include documentation and complexity analysis on a dedicated GitHub Pages site
 - Serve as a learning resource! *not a STL replacement*
 
-#### A Note From the Author
-2026-03-01
+### ℹ️ Overview
+This project is intentionally designed from **scratch** as:
 
-To my fellow Computer Science students:
-> **Eth-DSA** is a personal project that I want to complete from scratch as a product of everything I have learned and enjoyed in Computer Science at the *University of Tennessee*. My motivation for this project comes from wanting to help future students understand how core data structures and algorithms work under the hood so that no matter where programming ends up in the future, students know what is going on behinds the scenes. I know that Claude Code can write all of the code in this repository effortlessly, but my goal is to provide a free resource for those who want to learn from a fully crafted course with clean documentation (*potentially videos too*) going through the material from start to finish. If this library ends up being useless, at least I will have hopefully impacted someone's education and at least gotten something out of my degree! As I transition into graduate school and into a career in audio programming (*hopefully*), I hope I can contribute to this repository when I can and start to use it in my own C++ audio workflow.
+- A free learning resource
+- A free teaching resource
+- A long-term portfolio project
 
-Ethan T Miller
+This is *not* a replacement of the C++ Standard Library. Instead, it aims to explain how data structures and algorithms like `std::vector` and `std::sort` work internally.
 
-### Repo Structure
+### 📆 Timeline
+| Status | Task | Est. Completion Time | Goal Deadline |
+| :----: | :--- | :------------------: | :-----------: |
+| ❌ | Setup repo structure | 3 weeks | 2026-03-22 |
+
+
+### 📂 Project Structure
 ```
 eth-dsa/
 │
@@ -93,3 +99,23 @@ eth-dsa/
     └── workflows/
         └── ci.yml
 ```
+
+### ⚖️ License
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software!
+
+See [LICENSE](./LICENSE) for details.
+
+### 🧑🏻‍🏫 Author
+Ethan T Miller (EthBeats)
+
+*add info later...*
+
+#### A Note From the Author
+2026-03-01
+
+To my fellow Computer Science students:
+> **Eth-DSA** is a personal project that I want to complete from scratch as a product of everything I have learned and enjoyed in Computer Science at the *University of Tennessee*. My motivation for this project comes from wanting to help future students understand how core data structures and algorithms work under the hood so that no matter where programming ends up in the future, students know what is going on behinds the scenes. I know that Claude Code can write all of the code in this repository effortlessly, but my goal is to provide a free resource for those who want to learn from a fully crafted course with clean documentation (*potentially videos too*) going through the material from start to finish. If this library ends up being useless, at least I will have hopefully impacted someone's education and at least gotten something out of my degree! As I transition into graduate school and into a career in audio programming (*hopefully*), I hope I can contribute to this repository when I can and start to use it in my own C++ audio workflow.
+
+Ethan T Miller
