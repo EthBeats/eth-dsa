@@ -1,6 +1,8 @@
 # Eth-DSA
 
-[![CI](https://github.com/EthBeats/eth-dsa/actions/workflows/ci.yml/badge.svg)](https://github.com/EthBeats/eth-dsa/actions)
+[![CI](https://github.com/EthBeats/eth-dsa/actions/workflows/ci.yml/badge.svg)](https://github.com/EthBeats/eth-dsa/actions/workflows/ci.yml)
+[![Docs](https://github.com/EthBeats/eth-dsa/actions/workflows/docs.yml/badge.svg)](https://github.com/EthBeats/eth-dsa/actions/workflows/docs.yml)
+[![Pages](https://github.com/EthBeats/eth-dsa/actions/workflows/static.yml/badge.svg)](https://github.com/EthBeats/eth-dsa/actions/workflows/static.yml)
 
 ## Data Structures and Algorithms Library
 
