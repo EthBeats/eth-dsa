@@ -1,0 +1,10 @@
+site_name: Eth-DSA
+site_description: A modern C++ Data Structures & Algorithms Library
+site_url: https://www.eth-beats.com
+
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: indigo
+    

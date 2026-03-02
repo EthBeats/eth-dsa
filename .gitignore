@@ -1,6 +1,11 @@
 # CMake
 build/
 
+# C/C++
+
+# Python
+venv/
+
 # MacOS
 **/.DS_Store
 
